@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanjum Ibnul Mahmud (Prithu)</h1>
 <h3 align="center">A passionate frontend developer and AI/ML enthusiast.</h3>
 
-<img align="right" alt="Coding image" width="700" src="https://cdn.dribbble.com/users/3573566/screenshots/14509732/media/00ed4da4b643e67738a3ab402df90a24.gif">
+<img align="right" alt="Coding image" width="400" src="https://cdn.dribbble.com/users/3573566/screenshots/14509732/media/00ed4da4b643e67738a3ab402df90a24.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
