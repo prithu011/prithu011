@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mahmudprithu5@gmail.com**
 
-- ⚡ Fun fact **I'm a big Joker fan. I don't why u all are so seriousssshhhhh!!!**
+- ⚡ Fun fact **I'm a big Joker fan. I don't know why you all are so seriousssshhhhh!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
