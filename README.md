@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Creating a Football Simulated Transfer Market Website**
+- 🔭 I’m currently working on **Airtrip Management Software**
 
-- 🌱 I’m currently learning **Tailwind, Github Collaboration and node.js.**
+- 🌱 I’m currently learning **Tailwind, JWt Token and node.js.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prithu011](https://github.com/prithu011)
 
