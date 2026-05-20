@@ -6,13 +6,13 @@
 
 
 
-- 🔭 I’m currently working on **Airtrip Management Software**
+- 🔭 I’m currently working on **Building a Hybrid Model Using Neuro-symbolic AI and GNN**
 
-- 🌱 I’m currently learning **Tailwind, JWt Token and node.js.**
+- 🌱 I’m currently learning **Microsoft Excel & Google Sheets for Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prithu011](https://github.com/prithu011)
 
-- 📫 How to reach me **mahmudprithu5@gmail.com**
+- 📫 How to reach me **prithumahmud699@gmail.com**
 
 - ⚡ Fun fact **I'm a big Joker fan. I don't know why you all are so seriousssshhhhh!!!**
 
