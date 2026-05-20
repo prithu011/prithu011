@@ -6,7 +6,7 @@
   <h1>Hi 👋, I'm Tanjum Ibnul Mahmud (Prithu)</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=AI+Engineer+%7C+AI%2FML+Enthusiast;Building+with+Neuro-symbolic+AI+%2B+GNN;Solving+real-world+problems+with+AI;Turning+data+into+intelligent+solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=AI+Engineer;Building+with+Neuro-symbolic+AI+%2B+GNN;Solving+real-world+problems+with+AI;Turning+data+into+intelligent+solutions" alt="Typing SVG" />
   </a>
 </div>
 
@@ -66,7 +66,7 @@
 
 <h2 align="center">🧰 Tech Stack</h2>
 
-<h3>AI, ML & Data</h3>
+<h3>AI, ML, Deep Learning & Data</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -95,10 +95,12 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-<h3>Programming, Graphics & Dev Tools</h3>
+<h3>Programming, Graphics, VLSI & Networking Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -108,11 +110,11 @@
 
 ---
 
-<h2 align="center">📌 Coding Languages I Use</h2>
+<h2 align="center">📌 Coding Languages & Tools I Use</h2>
 
 <table align="center">
   <tr>
-    <th>Language</th>
+    <th>Language / Tool</th>
     <th>Main Use</th>
     <th>Focus Area</th>
   </tr>
@@ -150,6 +152,16 @@
     <td><b>OpenGL</b></td>
     <td>Computer graphics, rendering basics, and visual programming concepts</td>
     <td>Graphics</td>
+  </tr>
+  <tr>
+    <td><b>Quartus</b></td>
+    <td>VLSI design, digital logic implementation, FPGA-based circuit design, and hardware simulation</td>
+    <td>VLSI Design</td>
+  </tr>
+  <tr>
+    <td><b>Cisco Packet Tracer</b></td>
+    <td>Network simulation, routing and switching practice, and network topology design</td>
+    <td>Networking</td>
   </tr>
   <tr>
     <td><b>LaTeX</b></td>
