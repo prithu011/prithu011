@@ -95,8 +95,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-<h3>Dev Tools</h3>
+<h3>Programming, Graphics & Dev Tools</h3>
 <p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
@@ -138,6 +140,16 @@
     <td><b>MATLAB</b></td>
     <td>Numerical computing, simulation, and academic problem solving</td>
     <td>Academic</td>
+  </tr>
+  <tr>
+    <td><b>C</b></td>
+    <td>Programming fundamentals, system-level concepts, and graphics-related practice</td>
+    <td>Programming</td>
+  </tr>
+  <tr>
+    <td><b>OpenGL</b></td>
+    <td>Computer graphics, rendering basics, and visual programming concepts</td>
+    <td>Graphics</td>
   </tr>
   <tr>
     <td><b>LaTeX</b></td>
