@@ -151,31 +151,11 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <a href="https://github.com/prithu011">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=prithu011&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Prithu's GitHub Stats" />
-  </a>
-  <a href="https://github.com/prithu011">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithu011&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prithu011&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prithu011&theme=tokyonight&utcOffset=6" alt="Productive Time" />
 </div>
 
 <br />
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=prithu011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=prithu011&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-<h2 align="center">📈 Language & Contribution Summary</h2>
 
 <div align="center">
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prithu011&theme=tokyonight" alt="Repos Per Language" />
@@ -186,6 +166,20 @@
 
 <div align="center">
   <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prithu011&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=prithu011&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=prithu011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
